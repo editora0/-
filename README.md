@@ -24,7 +24,7 @@
   <tr>
     <td align="center" style="background: rgba(0,0,0,0.5); border-radius: 20px; padding: 20px;">
 
-      <!-- متن اصلی بزرگ و واضح -->
+      
       <div style="font-family: 'Segoe UI', Tahoma, sans-serif; text-align: center;">
 
         <p style="color: #ffcc00; font-size: 22px; font-weight: bold; margin: 10px 0; background: rgba(0,0,0,0.6); display: inline-block; padding: 8px 20px; border-radius: 40px;">
