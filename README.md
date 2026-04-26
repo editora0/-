@@ -12,10 +12,10 @@
 
 <p style="color: #ffcc00; font-size: 24px; font-weight: bold; background: rgba(0,0,0,0.5); display: inline-block; padding: 8px 20px; border-radius: 40px;">📌 آخرین بروزرسانی</p>
 
-<p style="color: #ff6666; font-size: 22px; font-weight: bold; margin: 20px 0 10px 0;">⏱ Last Update: 6/2/1405 · 7:00 PM</p>
+<p style="color: #ff6666; font-size: 22px; font-weight: bold; margin: 20px 0 10px 0;">⏱ Last Update: 6/2/1405 · 7:30 PM</p>
 <p style="color: #ffaa00; font-size: 18px; font-weight: bold; margin: 0 0 20px 0;">(کانفیگ چنل‌های دیگه)</p>
 
-<p style="color: #ff6666; font-size: 22px; font-weight: bold; margin: 20px 0 10px 0;">⏱ Last Update: 6/2/1405 · 8:00 PM</p>
+<p style="color: #ff6666; font-size: 22px; font-weight: bold; margin: 20px 0 10px 0;">⏱ Last Update:هنوز نذاشتیم</p>
 <p style="color: #ffaa00; font-size: 18px; font-weight: bold; margin: 0 0 30px 0;">(کانفیگ‌های چنل خودمون)</p>
 
 <br>
