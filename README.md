@@ -26,7 +26,7 @@
 
 <a href="https://t.me/NetliVPN" target="_blank" style="background: #1e1e2e; color: #33ccff; font-size: 20px; font-weight: bold; text-decoration: none; padding: 14px 30px; border-radius: 60px; display: inline-block; margin: 10px;">🔐 چنل وی‌پی‌ان: @NetliVPN</a>
 
-    </td>
+    
   </tr>
 </table>
 
